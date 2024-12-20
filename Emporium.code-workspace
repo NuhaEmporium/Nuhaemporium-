@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Emporium",
+		"liveServer.settings.port": 5501
+	}
+}
